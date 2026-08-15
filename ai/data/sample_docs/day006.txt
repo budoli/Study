@@ -1,0 +1,4 @@
+Python, Python, PYTHON!
+NLP is text processing.
+RAG is retrieval and generation.
+Text processing is useful.

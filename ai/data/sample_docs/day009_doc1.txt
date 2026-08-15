@@ -1,0 +1,2 @@
+Python is useful for text processing.
+Python handles text data.

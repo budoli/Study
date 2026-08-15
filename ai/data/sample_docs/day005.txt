@@ -1,0 +1,4 @@
+Python is useful and simple.
+NLP is useful for text analysis.
+RAG is useful for search and question answering.
+The search system is important for RAG.

@@ -1,0 +1,2 @@
+RAG retrieves documents and generates answers.
+Search systems use retrieval.

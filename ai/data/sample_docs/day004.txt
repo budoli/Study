@@ -1,0 +1,5 @@
+Python is useful.
+Python is simple.
+NLP is useful.
+RAG uses search.
+Search is important for RAG.

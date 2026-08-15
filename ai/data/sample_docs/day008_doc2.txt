@@ -1,0 +1,2 @@
+Python is useful for data analysis.
+Text analysis uses Python.

@@ -1,0 +1,6 @@
+Python is useful for NLP.
+Python is useful for RAG.
+
+NLP uses text processing.
+RAG uses retrieval and generation.
+Text processing is important for search.

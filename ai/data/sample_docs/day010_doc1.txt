@@ -1,0 +1,2 @@
+Python is useful for programming.
+Python is popular for data analysis.

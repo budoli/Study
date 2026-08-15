@@ -1,0 +1,2 @@
+NLP processes text data.
+Text analysis is important for NLP.

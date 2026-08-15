@@ -1,0 +1,2 @@
+NLP uses text data.
+Text analysis is useful.

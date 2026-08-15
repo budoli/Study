@@ -1,0 +1,2 @@
+RAG uses search.
+Search retrieves useful documents.

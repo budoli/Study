@@ -1,0 +1,2 @@
+Python is useful for data analysis.
+Python can automate many tasks.

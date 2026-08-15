@@ -1,0 +1,2 @@
+RAG uses search to find relevant documents.
+Search quality is important for RAG.

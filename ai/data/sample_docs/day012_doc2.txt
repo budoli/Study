@@ -1,0 +1,2 @@
+NLP analyzes text and language.
+Text data is important for search.

@@ -1,0 +1,1 @@
+RAG retrieves relevant documents and uses them to generate better answers.

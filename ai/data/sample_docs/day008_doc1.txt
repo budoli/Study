@@ -1,0 +1,2 @@
+Python is useful for text processing.
+NLP uses text data.

@@ -1,0 +1,2 @@
+RAG retrieves documents for question answering.
+Search and retrieval are important for RAG.

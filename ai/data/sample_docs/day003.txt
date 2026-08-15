@@ -1,0 +1,3 @@
+Python is GREAT!
+NLP, RAG, and Search are useful.
+Text Cleaning is Important?
