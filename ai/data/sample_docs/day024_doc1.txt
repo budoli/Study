@@ -1,0 +1,1 @@
+RAG에서 retriever는 질문과 관련 있는 chunk를 찾는 역할을 합니다. 좋은 retriever는 답변에 필요한 근거를 빠르게 찾아야 합니다.

@@ -1,0 +1,1 @@
+질문 API는 보통 question을 입력받고 answer와 sources를 반환합니다. sources에는 source 파일 경로와 chunk_id 같은 metadata가 포함됩니다.

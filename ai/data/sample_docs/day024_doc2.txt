@@ -1,0 +1,1 @@
+metadata는 chunk의 출처를 설명합니다. source, chunk_id, start, end 같은 정보가 있어야 검색 결과를 신뢰할 수 있습니다.

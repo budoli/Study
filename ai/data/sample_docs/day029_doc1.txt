@@ -1,0 +1,1 @@
+FastAPI는 Python 함수로 만든 RAG 로직을 HTTP API로 제공할 수 있게 해줍니다. POST 요청으로 질문을 받고 JSON으로 답변을 반환할 수 있습니다.
